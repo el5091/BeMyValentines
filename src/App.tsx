@@ -33,7 +33,7 @@ export default function App() {
         <p className="msg">You made my heart do a little dance 💘</p>
         <video
           className="cute-img"
-          src="./src/assets/video1.mp4"
+          src="./video1.mp4"
           autoPlay
           loop
           muted
@@ -54,7 +54,7 @@ export default function App() {
     </h1>
       <img
         className="cute-img"
-        src="./src/assets/image1.jpg"
+        src="./image1.jpg"
         width="100%"
       />
 
